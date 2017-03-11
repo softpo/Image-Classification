@@ -2,6 +2,10 @@
 
 ##Overview
 
+##Results
+
+##Implementation Details
+
 ##Dependencies
 * numpy
 * scikit-learn
