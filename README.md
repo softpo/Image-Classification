@@ -1,7 +1,7 @@
 # Image-Classification
 
-# Overview
+##Overview
 
-# Dependencies
+##Dependencies
 
-# Usage
+##Usage
