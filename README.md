@@ -5,8 +5,6 @@ This is the second project of the Udacity's deep learning nanodegree foundation.
 
 ## Results
 
-## Implementation Details
-
 ## Dependencies
 * numpy
 * scikit-learn
